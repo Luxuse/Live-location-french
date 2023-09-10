@@ -21,11 +21,11 @@
   <tr>
     <td align="center">
       <a href="https://github.com/akashblackhat">
-        <img src="https://avatars.githubusercontent.com/u/82418341?v=4" 
-        width="100px;" alt="José Lucas"/>
+        <img src="https://avatars.githubusercontent.com/u/88341460?v=4" 
+        width="100px;" alt="akashblackhat"/>
         <br/>
         <sub>
-          <b>José Lucas</b>
+          <b>akashblackhat</b>
         </sub>
       </a>
     </td>
