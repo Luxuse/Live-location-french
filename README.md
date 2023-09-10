@@ -2,8 +2,35 @@
 # 🔰Feutures and Containt🔰
    NOT CREATED BY ME ONLY TRANSLATED
 
-   CREATOR https://github.com/akashblackhat
-    
+   <table class="traducteur">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luxuse">
+        <img src="https://avatars.githubusercontent.com/u/137567329?s=400&u=51286bbea1c5a95e9a7917fe240c5cf75afd7f31&v=4" 
+        width="100px;" alt="Mathéo luxuse"/>
+        <br/>
+        <sub>
+          <b>luxuse matheo luxuse</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table class="author">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/akashblackhat">
+        <img src="https://avatars.githubusercontent.com/u/82418341?v=4" 
+        width="100px;" alt="José Lucas"/>
+        <br/>
+        <sub>
+          <b>José Lucas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
     
     0) Ip Address
 
